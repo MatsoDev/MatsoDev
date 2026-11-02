@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:Matsoo27@gmail.com"><img src="https://img.shields.io/badge/Email-Matsoo27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://Portfolio-Placeholder"><img src="https://img.shields.io/badge/Portfolio-Add_website_URL-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: replace placeholder URL" /></a>
+  <a href="https://matsodev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
 </p>
 
 ---
